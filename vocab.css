@@ -1,0 +1,36 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+}
+#red{
+    color:red;
+}
+#yellow{
+    color:yellow;
+}
+#green{
+    color:green;
+}
+#puple{
+    color:purple;
+}
+#blue{
+    color:blue;
+}
+#black{
+    color: black;
+}
+#pink{
+    color: pink;
+}
+*{
+    background-color: darkolivegreen;
+}
+.color-title{
+    font-weight: bold;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
